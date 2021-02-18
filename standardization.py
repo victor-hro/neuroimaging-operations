@@ -1,4 +1,4 @@
-class Standardize(keras.utils.Sequence):
+class Standardize():
    
    def __init__(self, img):
       
