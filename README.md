@@ -6,5 +6,5 @@
 Custom data generator for medical images
 
 # scripts
--[] Custom dataset;
+-[ ] Custom dataset;
 
