@@ -5,7 +5,7 @@
 
 Custom data generator for medical images
 
-# scripts
+# Description:
 - [ ] Custom datasets: datasets for 2D MRI slices with TensorFlow ;
 - [ ] Custom image generator: custom image generator for MRI images, based on a keras function;
 
