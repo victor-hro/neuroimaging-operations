@@ -11,7 +11,10 @@ Custom data generator for medical images
     
 ## Custom image generator: 
     image generator for MRI images, based on a keras function;
-    
-    Standardization: standard scaler only for brain structures, using boolean mask;
-    [x] Mae 2D slices: Mean Absolute Error of 3D MRI, using 2D slices and median calculus.
+ 
+## Standardization: 
+    standard scaler only for brain structures, using boolean mask;
+
+## MAE 2D slices:
+    Mean Absolute Error of 3D MRI, using 2D slices and median calculus.
 
