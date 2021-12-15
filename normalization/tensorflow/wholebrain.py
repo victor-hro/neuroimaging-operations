@@ -4,5 +4,5 @@ def standardize(self):
    mean = np.mean(img[mask]) # mean
    std = np.std(img[mask])   # std
 
-   img[mask] = (img[mask] - mean)/ std
+   img = (img - mean)/ std
    return img
