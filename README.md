@@ -9,13 +9,14 @@ Data Manipulation for Medical Images
 ## Custom datasets: 
     datasets for 2D MRI slices with TensorFlow ;
     datasets for 2D MRI slices with PyTorch ;
-    
-## Custom image generator: 
-    image generator for MRI images, based on a keras function;
  
-## Standardization: 
-    standard scaler only for brain structures, using boolean mask;
+## Normalization: 
+    [x] Standarzization: standard scaler only for brain structures, using boolean mask;
+    [x] Percentile;
+    [x] MinMax;
+    [x] WholeBrain.
+    
 
-## MAE 2D slices:
-    Mean Absolute Error of 3D MRI, using 2D slices and median calculus.
+## Metrics:
+    [x] Mean Absolute Error for 3D MRI, using 2D slices and predictions fusion.
 
