@@ -8,6 +8,7 @@ Data Manipulation for Medical Images
 # Description:
 ## Custom datasets: 
     datasets for 2D MRI slices with TensorFlow ;
+    datasets for 2D MRI slices with PyTorch ;
     
 ## Custom image generator: 
     image generator for MRI images, based on a keras function;
